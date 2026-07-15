@@ -36,8 +36,10 @@ public class SecurityConfig {
 
         // Allow local dev and any Vercel deployment for this frontend
         config.setAllowedOriginPatterns(List.of(
-                "http://localhost:3000"
-        ));
+        "http://localhost:3000",
+        "https://ev-yatra.vercel.app",
+        "https://*.vercel.app"
+));
 
         // Allow All methods
         config.setAllowedMethods(List.of("*"));
