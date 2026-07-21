@@ -6,12 +6,6 @@
 ![JWT](https://img.shields.io/badge/JWT-Auth-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 🚀 Live Demo
-<<<<<<< HEAD
-- 🌐 Frontend: - [evyatra.vercel.app](https://evyatra-frontend.vercel.app)
-- 📖 API Docs: [Swagger UI](https://evyatra-backend-prod.onrender.com/swagger-ui/index.html)
-
----
 
 ## 📌 About Project
 
