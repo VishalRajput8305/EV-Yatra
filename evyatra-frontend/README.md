@@ -4,9 +4,6 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-Maps-green)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)
 
-## 🌐 Live Demo
-- [evyatra.vercel.app](https://evyatra-frontend.vercel.app)
-
 ## 🛠️ Tech Stack
 - React.js
 - React Leaflet Maps
@@ -35,9 +32,6 @@ cd evyatra-frontend
 npm install
 npm start
 ```
-
-## 🔗 Backend Repo
-[evyatra-backend](https://github.com/kunalpaunikar/evyatra-backend)
 
 ## 👨‍💻 Developer
 **Kunal Subodh Paunikar**  
