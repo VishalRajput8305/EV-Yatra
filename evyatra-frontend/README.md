@@ -33,11 +33,6 @@ npm install
 npm start
 ```
 
-## 👨‍💻 Developer
-**Kunal Subodh Paunikar**  
-📧 kunalpaunikar13@gmail.com  
-🔗 [GitHub](https://github.com/kunalpaunikar)
-
 ## 📸 Screenshots
 
 ### Landing Page
