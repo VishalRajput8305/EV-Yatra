@@ -184,22 +184,6 @@ CREATE DATABASE evyatra_db;
 mvn spring-boot:run
 ```
 
-### API Docs
-```
-http://localhost:8080/swagger-ui/index.html
-```
-
----
-
-## 🧪 Test Credentials (Demo)
-
-```
-Admin → kunalpaunikar13@gmail.com
-User  → paunikarkunal01@gmail.com
-```
-
----
-
 ## 📸 Screenshots
 
 ### Landing Page
@@ -233,19 +217,3 @@ User  → paunikarkunal01@gmail.com
 ![Review](screenshots/Review.jpeg)
 
 ---
-
-## 👨‍💻 Developer
-
-**Kunal Subodh Paunikar**
-- 📧 kunalpaunikar13@gmail.com
-- 🔗 [GitHub](https://github.com/kunalpaunikar)
-
----
-
-## 📄 License
-
-MIT License — Free to use for learning purposes.
-
----
-
-⭐ **If you like my project then give likes...!** ⭐
